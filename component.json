@@ -1,0 +1,6 @@
+{
+  "name": "body-attributes",
+  "version": "0.1.0",
+  "scripts": ["index.js"],
+  "dependencies": {}
+}
